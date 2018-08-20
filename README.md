@@ -14,10 +14,17 @@ In the future, the project will support the following:
 4. Concatenating all feature vectors from all blocks.
 
 For contacting me:
+
 ahmed.f.gad@gmail.com
+
 ahmed.fawzy@ci.menofia.edu.eg
+
 LinkedIn: https://www.linkedin.com/in/ahmedfgad
+
 Facebook: https://www.facebook.com/ahmed.f.gadd
+
 Twitter: https://twitter.com/ahmedfgad
+
 KDnuggets: https://www.kdnuggets.com/author/ahmed-gad
+
 TowardsDataScience: https://towardsdatascience.com/@ahmedfgad
