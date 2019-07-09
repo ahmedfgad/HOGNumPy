@@ -24,5 +24,5 @@ cell_direction = grad_direction[:8, :8]
 cell_magnitude = grad_magnitude[:8, :8]
 HOG_cell_hist = HOG.HOG_cell_histogram(cell_direction, cell_magnitude, hist_bins)
 
-matplotlib.pyplot.bar(left=numpy.arange(9), height=HOG_cell_hist, align="center", width=0.8)
+matplotlib.pyplot.bar(x=numpy.arange(9), height=HOG_cell_hist, align="center", width=0.8)
 matplotlib.pyplot.show()
