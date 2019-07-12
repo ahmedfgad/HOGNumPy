@@ -4,6 +4,7 @@ import matplotlib.pyplot
 import HOG
 
 img = skimage.io.imread("im_patch.jpg")
+img = skimage.color.rgb2gray(img)
 
 horizontal_mask = numpy.array([-1, 0, 1])
 vertical_mask = numpy.array([[-1],
